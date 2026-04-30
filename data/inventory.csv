@@ -1,0 +1,5 @@
+date,region,category,stock_level,reorder_flag
+2026-04-01,Region A,Cereal,900,no
+2026-04-08,Region A,Cereal,850,no
+2026-04-15,Region A,Cereal,240,yes
+2026-04-22,Region A,Cereal,260,yes
